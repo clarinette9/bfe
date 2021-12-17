@@ -83,7 +83,7 @@ BFE的架构说明见[概览](docs/zh_cn/introduction/overview.md)文档
 
   <table>
   <tr>
-  <td><img src="https://bfeopensource.bj.bcebos.com/wechatQRCode.png" width="100"></td>
+  <td><img src="https://github.com/clarinette9/bfe-external-resource/blob/main/wechatQRCode.png" width="100"></td>
   </tr>
   </table>
 
